@@ -40,16 +40,16 @@ A modern job search and recruitment platform built with React, Node.js, and Mong
 ### Installation
 
 1. Clone the repository
-bash
+   
 git clone https://github.com/yourusername/job-search-platform.git
 
 2. Install frontend dependencies
-bash
+   
 cd frontend
 npm install
 
 3. Install backend dependencies
-bash
+
 cd backend
 npm install
 
@@ -66,31 +66,33 @@ REACT_APP_API_URL=http://localhost:5000
 5. Start the development servers
 
 Backend:
-bash
+
 cd backend
 npm run dev
 
 Frontend:
-bash
+
 cd frontend
 npm start
 
 ## Project Structure
+
 ├── frontend/
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── styles/
-│ └── utils/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── services/
+│       ├── styles/
+│       └── utils/
 ├── backend/
-│ ├── src/
-│ │ ├── config/
-│ │ ├── controllers/
-│ │ ├── models/
-│ │ └── routes/
-│ └── upload
+│   ├── src/
+│   │   ├── config/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   └── routes/
+│   └── upload/
+
 
 ## API Endpoints
 
