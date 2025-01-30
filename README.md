@@ -2,6 +2,9 @@
 
 A modern job search and recruitment platform built with React, Node.js, and MongoDB.
 
+## 🎥 Project Demo
+https://www.youtube.com/watch?v=bFxzWJL50rY
+
 ## Features
 
 - 🔍 Advanced job search with multiple filters
