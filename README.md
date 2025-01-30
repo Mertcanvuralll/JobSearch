@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=bFxzWJL50rY
 -cd backend
 -npm install
 
-## 4. Create .env files
+### 4. Create .env files
 -Backend (.env):
 -env
 -MONGODB_URI=your_mongodb_uri
