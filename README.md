@@ -42,21 +42,21 @@ https://www.youtube.com/watch?v=bFxzWJL50rY
 
 ### Installation
 
-1. Clone the repository
+## 1. Clone the repository
    
 -git clone https://github.com/Mertcanvuralll/JobSearch
 
-2. Install frontend dependencies
+## 2. Install frontend dependencies
    
 -cd frontend
 -npm install
 
-3. Install backend dependencies
+## 3. Install backend dependencies
 
 -cd backend
 -npm install
 
-4. Create .env files
+## 4. Create .env files
 -Backend (.env):
 -env
 -MONGODB_URI=your_mongodb_uri
@@ -66,14 +66,14 @@ https://www.youtube.com/watch?v=bFxzWJL50rY
 -env
 -REACT_APP_API_URL=http://localhost:5000
 
-5. Start the development servers
+## 5. Start the development servers
 
-Backend:
+## Backend:
 
 -cd backend
 -npm run dev
 
-Frontend:
+## Frontend:
 
 -cd frontend
 -npm start
