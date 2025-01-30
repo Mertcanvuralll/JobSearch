@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=bFxzWJL50rY
 
 1. Clone the repository
    
-git clone https://github.com/yourusername/job-search-platform.git
+git clone https://github.com/Mertcanvuralll/JobSearch
 
 2. Install frontend dependencies
    
