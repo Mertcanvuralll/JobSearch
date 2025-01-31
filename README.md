@@ -127,12 +127,23 @@ This platform is a modern job search application aimed at bridging the gap betwe
    npm install
    ```
 4. Create .env file with the following variables:
+
+   Backend (.env):
    ```
-   MONGODB_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
-   FRONTEND_URL=http://localhost:3000
+   MONGODB_URI=mongodb+srv://themetov3:pbKDPNtcjleaqxxB@clusterweb.s0qe8.mongodb.net/job-search
+   GOOGLE_CLIENT_ID=523163021392-uf07m9jh8bphsasjknk5294vkrgh1ssp.apps.googleusercontent.com
+   GOOGLE_CLIENT_SECRET=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
+   BACKEND_URL=http://localhost:5000
+   FRONTEND_URL=http://localhost:3030
+   PORT=5000
+   NODE_ENV=development 
    ```
-5. Start the application:
+   Frontend (.env):
+   ```
+   REACT_APP_GOOGLE_CLIENT_ID=523163021392-uf07m9jh8bphsasjknk5294vkrgh1ssp.apps.googleusercontent.com
+   REACT_APP_API_URL=http://localhost:5000
+    ```
+6. Start the application:
    ```
    # Backend
    npm run dev
