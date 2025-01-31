@@ -1,5 +1,7 @@
 # Job Search Platform
 
+> **Important Note**: While this project was originally intended to be deployed to a cloud platform, some features encountered compatibility issues during cloud deployment. As a result, I've provided this comprehensive documentation and codebase for review purposes. The project runs perfectly in a local development environment, demonstrating all intended functionalities and architectural decisions. I apologize for any inconvenience this may cause .
+
 A modern job search and posting platform developed with React frontend and Node.js backend.
 
 ## 🎥 Project Demo
